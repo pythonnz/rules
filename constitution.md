@@ -56,7 +56,10 @@
 
 4.1. The **Society** is established and maintained exclusively for charitable purposes (including any purposes ancillary to those charitable purposes), namely:
 
-- (i) advancing education by providing meetups, courses, conferences, and written information around the Python programming language to the public
+- (i) advancing education by providing meetups, courses, conferences, and written information around the Python programming language to the public.
+- (ii) as a support community for the Python programming language.
+- (iii) as a vector for the promotion of the Python programming language within non-profit, commercial and industrial organisations.
+- (iv) as a vector for the promotion of the Python programming language within government bodies, including but not limited to educational bodies of all levels, medical bodies, local and national government, and political parties.
 
 4.2. Any income, benefit, or advantage must be used to advance the charitable purposes of the **Society**
 
@@ -70,9 +73,7 @@
 
 6.2. The **Society's** capacity, rights, powers, and privileges are subject to the following restrictions (if any)—
 
-- (i) The **Society** does not have the power to borrow money.
-
-- (ii) If the **Society** ever needs to borrow money, the matter must be raised at a **General Meeting** for resolution. The purpose of the loan must be checked to ensure it lies within the objects of the **Society**. In this meeting, two resolutions shall be voted upon: that the purpose is compatible with the objects of the **Society**; and, separately, that the membership approves the **Society** to seek the loan.
+- (i) If the **Society** ever needs to borrow money, the matter must be raised at a **General Meeting** for resolution. The purpose of the loan must be checked to ensure it lies within the objects of the **Society**. In this meeting, two resolutions shall be voted upon: that the purpose is compatible with the objects of the **Society**; and, separately, that the membership approves the **Society** to seek the loan.
 
 ### **7. Registered office**
 
@@ -213,7 +214,7 @@
 
 - (iv) no other proxy voting shall be permitted.
 
-18.4. No **General Meeting** may be held unless at least 15 eligible financial **Members** attend throughout the meeting and this will constitute a quorum.
+18.4. No **General Meeting** may be held unless at least 10 eligible financial **Members** attend throughout the meeting and this will constitute a quorum.
 
 18.5. If, within half an hour after the time appointed for a meeting a quorum is not present, the meeting – if convened upon request of **Members** – shall be dissolved. In any other case it shall stand adjourned to a day, time and place determined by the **Chairperson** of the **Society**, and if at such adjourned meeting a quorum is not present those **Members** present in person or by proxy shall be deemed to constitute a sufficient quorum.
 
@@ -451,8 +452,6 @@
 
 - (iv) The **Committee** passes a vote of no confidence in the **Officer**.
 
-- (v) ***\<\<(Optional) Specify other grounds for removal\>\>***
-
 34.2. with effect from (as applicable) the date specified in a resolution of the **Committee** or **Society**.
 
 ### **35. Ceasing to hold office**
@@ -512,6 +511,8 @@
 - (i) The former **Member's** name, and
 
 - (ii) The date the former **Member** ceased to be a **Member**.
+
+37.6. A former **Member** may request the deletion of their record kept as per 37.5. immediately after ceasing to be a **Member**. The society shall then delete their record at the end of the current financial year.
 
 ### **38. Interests Register**
 
@@ -800,18 +801,6 @@
 
 ## **Other**
 
-### **54. Common seal**
-
-54.1. The **Society** will have a common seal that must be kept in the custody of—
-
-- (i) an **Officer**
-
-54.2. The common seal may be affixed to any document:
-
-- (i) by resolution of the **Committee**, and must be countersigned by 2 **Officers** or
-
-- (ii) by such other means as the **Committee** may resolve from time to time.
-
-### **55. Bylaws**
+### **54. Bylaws**
 
 55.1. The **Committee** from time to time may make and amend bylaws, and policies for the conduct and control of **Society** activities and codes of conduct applicable to **Members**, but no such bylaws, policies or codes of conduct applicable to **Members** shall be inconsistent with this **Constitution**, the **Act**, regulations made under the **Act**, or any other legislation. 
