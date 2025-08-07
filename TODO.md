@@ -13,6 +13,10 @@
 - [ ] 34.1.(ii) Similarly, "in the opinion of the Committee or the Society" this
       determination of disrepute seems to bypass the dispute resolution process? What
       would be a practical situation where this is justifiably used?
+- [ ] Further to the above two clauses, there is 17.2. distinguising between a
+      "disciplinary" and a dispute resolution process. Wondering if a GM is required to
+      re-admit a former Member, maybe it should only be a GM that can perform a
+      "disciplinary process" - or is that impractical?
 - [ ] 42.3.(iv) "or Member's rights or interests generally have been damaged" - does
       this not open us up to disputes that are unrelated to the society (other than the
       parties are members)? Potentially leading to mediation costs covered by the
