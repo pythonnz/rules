@@ -3,7 +3,7 @@
 Official rules of [Python New Zealand](https://python.nz).<br>
 This repository holds the authoritative source code of the documents and tracks changes to them.
 
-* Constitution
+* [Constitution](constitution/constitution.md)
 * Bylaws
 * Code of Conduct
 
@@ -31,8 +31,8 @@ pandoc -s constitution.md -o constitution.html -c constitution.css -V "pagetitle
 
 #### Create PDF
 
-Use [weasyprint](https://weasyprint.org) or similar, or just print from  your browser:
-```
-weasyprint constitution.html constitution.pdf
-```
+Just print the HTML from your browser to a PDF file.<br>
+If you want to use a dedicated conversion tool instead, check that it does the job correctly
+(the numbering of bullets and sub bullets is where [weasyprint] failed)
+
 
