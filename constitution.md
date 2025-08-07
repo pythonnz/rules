@@ -1,9 +1,3 @@
-<style>
-ul {
-    list-style: none;
-}
-</style>
-
 # **Constitution**
 
 ## **Introductory rules**
