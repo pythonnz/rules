@@ -41,4 +41,4 @@ pandoc -s constitution.md -o constitution.html -c constitution.css -V "pagetitle
 
 Just print the HTML from your browser to a PDF file.<br> If you want to use a dedicated
 conversion tool instead, check that it does the job correctly (the numbering of bullets
-and sub bullets is where [weasyprint] failed)
+and sub bullets is where [weasyprint](https://weasyprint.org/) failed)
