@@ -12,10 +12,10 @@ authoritative source code of the documents and tracks changes to them.
 ### Constitution
 
 This is Markdown source code to produce HTML (for https://python.nz) and PDF (for
-printing)<br> \_Note: On github.com, bullet points will show in addition to numbering
+printing)<br> _Note: On github.com, bullet points will show in addition to numbering
 (styling is ignored). Also, clauses following a bullet list wrongly remain at the same
 indentation level as the bullet list - this seems to be a rendering bug in github. The
-HTML/PDF results look fine.
+HTML/PDF results look fine._
 
 #### Create HTML
 
