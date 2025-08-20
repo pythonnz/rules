@@ -25,6 +25,14 @@
       and sending of emails covers the requirement "in writing"?
 - [ ] 37.6 I hope our intent is clear. Is this suitable wording for a "Right to be
       forgotten" clause?
+- [ ] 13.1 and 37.2(iii)(b) - we do not want to force people to provide their phone
+      number - name and email address is sufficient for us. So we would like to strike
+      this requirement to collect and store the phone number as part of the member's
+      contact details. Is there a legal requirement to keep it, or can we just adjust
+      13.1 to "optionally a phone number" and strike 37.2(iii)(b) to "a phone number, if
+      provided" ?
+- [ ] 6.2 "(if any)—" - Can we just delete this - looks like a superfluous leftover from
+      the constitution builder?
 
 Please note - we intend to put some "implementation details" into bylaws:
 
@@ -44,6 +52,8 @@ Please note - we intend to put some "implementation details" into bylaws:
 - [ ] Bank Accounts and Cards
   - [ ] Mechanism main/card
   - [ ] AGM mandate (treasurer/secretary signatories no longer explicit in constitution)
+- [ ] Term limits
+  - [ ] Rotation for key positions (chair, deputy chair, treasurer, secretary)
 - [ ] Event Organisers
   - [ ] Goals / Relationship
   - [ ] Commitment
@@ -59,6 +69,7 @@ Please note - we intend to put some "implementation details" into bylaws:
       HelloClub)
 - [ ] Upon adoption: confirm existing life members
 - [ ] Upon adoption: confirm existing membership fees
+- [ ] Election process: only officers are elected by GM, positions within committee
 - [ ] Election process: must confirm they would stand if elected
 - [ ] Election process: must certify that they're not ineligible
 - [ ] Election process: counting scrutineers are 2 members who are not nominees
