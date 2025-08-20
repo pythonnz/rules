@@ -142,7 +142,7 @@ Registrar can contact when needed.
   8.3. A contact person can be appointed by the **Committee** or elected by the
   **Members** at a **General Meeting**.
 
-  8.4. Each contact person's name must be provided to theRegistrar of Incorporated
+  8.4. Each contact person's name must be provided to the Registrar of Incorporated
   Societies, along with their contact details, including:
 
 - (i) a physical address or an electronic address, and
