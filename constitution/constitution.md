@@ -695,11 +695,6 @@ suffice.
 year(s), expiring at the end of the **Annual General Meeting** in the year corresponding
 with the last year of each **Officer's** term of office.
 
-33.2. No **Officer** shall serve for more than **_4_** consecutive terms.
-
-33.3. No **Chairperson** shall serve for more than **_4_** consecutive years as
-**Chairperson**.
-
 ### **34. Removal of officers**
 
 34.1. An **Officer** shall be removed as an **Officer** by resolution of the
