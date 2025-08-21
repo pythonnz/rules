@@ -74,3 +74,4 @@ Please note - we intend to put some "implementation details" into bylaws:
 - [ ] Election process: must certify that they're not ineligible
 - [ ] Election process: counting scrutineers are 2 members who are not nominees
 - [ ] Election process bylaws?
+- [ ] Charity return: Constitution needs review every 3 years
