@@ -5,7 +5,7 @@
       introduce as bylaw**
 - [x] 37.6 Right to be forgotten (new)<br> **-> yes, add, pending lawyer's confirmation
       of wording**
-- [x] 32.1.(i) "Any such appointment must be ratified at the next Annual General
+- [ ] 32.1.(i) "Any such appointment must be ratified at the next Annual General
       Meeting." Given that we have 1 year terms that seems pointless - remove?
 
 # Questions for lawyer
