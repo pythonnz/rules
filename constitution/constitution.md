@@ -107,7 +107,7 @@ or any other legislation.
 members.
 
 6.2. The **Society's** capacity, rights, powers, and privileges are subject to the
-following restrictions (if any)—
+following restrictions—
 
 - (i) If the **Society** ever needs to borrow money, the matter must be raised at a
   **General Meeting** for resolution. The purpose of the loan must be checked to ensure
@@ -256,8 +256,10 @@ payment of the subscription, any other fees, or levy the **Committee** may termi
 
   - (a) The **Member** has failed to pay a subscription, levy or other amount due to the
     **Society** within 60 **Working Days** of the due date for payment.
-  - (b) In the opinion of the **Committee** the **Member** has brought the **Society**
-    into disrepute.
+  - (b) In the opinion of the **Committee**, the **Member** has brought the **Society**
+    into disrepute, provided that any resolution to terminate membership on this ground
+    may only be made following a dispute resolution process under this **Constitution**,
+    which may be invoked by the **Committee** or by a **Member**.
 
     15.2. with effect from (as applicable)—
 
@@ -659,7 +661,6 @@ suffice.
   appointee must, before appointment, supply a signed consent to appointment and a
   certificate that the nominee is not disqualified from being appointed or holding
   office as an **Officer** (as described in the 'Qualification of Officers' rule above).
-  Any such appointment must be ratified at the next **Annual General Meeting**.
 
 - (ii) A candidate's written nomination, accompanied by the written consent of the
   nominee with a certificate that the nominee is not disqualified from being appointed
@@ -704,7 +705,10 @@ with the last year of each **Officer's** term of office.
 - (i) The **Officer** elected to the **Committee** has been absent from 3 committee
   meetings without leave of absence from the **Committee**.
 
-- (ii) The **Officer** has brought the **Society** into disrepute.
+- (ii) The **Officer** has brought the **Society** into disrepute, provided that any
+  resolution to remove an Officer on this ground may only be made following a dispute
+  resolution process under this **Constitution**, which may be invoked by the
+  **Committee** or by a **Member**.
 
 - (iii) The **Officer** has failed to disclose a conflict of interest.
 
@@ -802,7 +806,7 @@ shall include —
 
   37.6. A former **Member** may request the deletion of their record kept as per 37.5.
   immediately after ceasing to be a **Member**. The society shall then delete their
-  record at the end of the current financial year.
+  record within 12 months.
 
 ### **38. Interests Register**
 
