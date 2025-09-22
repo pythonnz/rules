@@ -950,7 +950,7 @@ information to be identified.
   **Society's** **Constitution** or bylaws or the **Act**
 
 - (iv) a **Member's** rights or interests as a **Member** have been damaged or
-  **Member's** rights or interests generally have been damaged.
+  **Members'** rights or interests generally have been damaged.
 
   42.4. A **Member** or an **Officer** may make a complaint by giving to the
   **Committee** (or a complaints subcommittee) a notice in writing that—
