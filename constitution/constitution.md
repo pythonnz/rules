@@ -9,8 +9,7 @@ Python New Zealand), in this **Constitution** referred to as the '**Society**'.
 
 ### **2. Charitable status**
 
-2.1. The **Society** is already, or intends after incorporation, to be registered as a
-charitable entity under the Charities Act 2005.
+2.1. The **Society** is registered as a charitable entity under the Charities Act 2005.
 
 ### **3. Definitions**
 
