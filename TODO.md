@@ -65,45 +65,40 @@
       sense, but in my view not otherwise (as in the present instance where Clause 33.1
       provides for appointments for 1 year to the next AGM)."<br> **-> committee to
       confirm removal (see above)**
-
-Please note - we intend to put some "implementation details" into bylaws:
-
-- Membership runs with the financial year 01 Jan-31 Dec, the initial fee is
-  proportionate (e.g. joining in October)
-- Very specific bank account and VISA card setup, dual signatories and bank mandate
-  change process (the treasurer is not mentioned in 40.)
-- Guidelines and commitment forms for event organisers
-- Code of Conduct
-- Activities - what we actually do in pursuit of our purposes listed in 4.1
-- Reporting/Transparency - what information is published where (e.g. AGM minutes)
+- [x] CONFIRMED BY LAWYER: 2.1 can just read "The **Society** is registered as a
+      charitable entity under the Charities Act 2005." - there is no timing issue with
+      re-registration so we don't need "or intends after incorporation" which could make
+      readers wonder whether we actually are registered as a charity.
 
 # Bylaws
 
-- [ ] Membership
-  - [ ] Runs 1 Jan-31 Dec, initial fee proportionate
-- [ ] Bank Accounts and Cards
-  - [ ] Mechanism main/card
-  - [ ] AGM mandate (treasurer/secretary signatories no longer explicit in constitution)
-- [ ] Term limits
-  - [ ] Rotation for key positions (chair, deputy chair, treasurer, secretary)
-- [ ] Event Organisers
-  - [ ] Goals / Relationship
-  - [ ] Commitment
-  - [ ] Events HOWTO
-- [ ] Code of Conduct
-- [ ] Activities (formerly 2b/2c/2d - meetups, KPC, inclusivity (code of conduct))
-- [ ] Transparency
-  - [ ] Minutes of AGM -> publish to members (/public?)
+These have now all been drafted.
+
+- [x] Membership
+  - [x] Runs 1 Jan-31 Dec, initial fee proportionate
+- [x] Bank Accounts and Cards
+  - [x] Mechanism main/card
+  - [x] AGM mandate (treasurer/secretary signatories no longer explicit in constitution)
+- [x] Term limits
+  - [x] Rotation for key positions (chair, deputy chair, treasurer, secretary)
+- [x] Event Organisers
+  - [x] Goals / Relationship
+  - [x] Commitment
+  - [x] Events HOWTO
+- [x] Code of Conduct
+- [x] Activities (formerly 2b/2c/2d - meetups, KPC, inclusivity (code of conduct))
+- [x] Transparency
+  - [x] Minutes of AGM -> publish to members (/public?)
 
 # Consequences
 
 - [ ] (Vice) President -> (Vice) Chairperson (email / alias, 1Password, website,
       HelloClub)
-- [ ] Upon adoption: confirm existing life members
-- [ ] Upon adoption: confirm existing membership fees
+- [ ] Upon adoption at GM: confirm existing life members
+- [ ] Upon adoption at GM: confirm existing membership fees
 - [ ] Election process: only officers are elected by GM, positions within committee
-- [ ] Election process: must confirm they would stand if elected
-- [ ] Election process: must certify that they're not ineligible
+- [ ] Election process: must FIRST confirm they would stand if elected
+- [ ] Election process: must FIRST certify that they're not ineligible
 - [ ] Election process: counting scrutineers are 2 members who are not nominees
-- [ ] Election process bylaws?
+- [ ] Election process create a bylaw for implementation details?
 - [ ] Charity return: Constitution needs review every 3 years
