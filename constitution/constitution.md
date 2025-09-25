@@ -93,8 +93,10 @@ words and phrases have the following meanings:
   government bodies, including but not limited to educational bodies of all levels,
   medical bodies, local and national government, and political parties.
 
-  4.2. Any income, benefit, or advantage must be used to advance the charitable purposes
-  of the **Society**
+<!-- -->
+
+4.2. Any income, benefit, or advantage must be used to advance the charitable purposes
+of the **Society**
 
 ### **5. Act and Regulations**
 
@@ -140,19 +142,23 @@ Registrar can contact when needed.
 
 - (ii) Ordinarily resident in New Zealand.
 
-  8.3. A contact person can be appointed by the **Committee** or elected by the
-  **Members** at a **General Meeting**.
+<!-- -->
 
-  8.4. Each contact person's name must be provided to the Registrar of Incorporated
-  Societies, along with their contact details, including:
+8.3. A contact person can be appointed by the **Committee** or elected by the
+**Members** at a **General Meeting**.
+
+8.4. Each contact person's name must be provided to the Registrar of Incorporated
+Societies, along with their contact details, including:
 
 - (i) a physical address or an electronic address, and
 
 - (ii) a telephone number.
 
-  8.5. Any change in that contact person or that person's name or contact details shall
-  be advised to the Registrar of Incorporated Societies within 20 **Working Days** of
-  that change occurring, or the **Society** becoming aware of the change.
+<!-- -->
+
+8.5. Any change in that contact person or that person's name or contact details shall be
+advised to the Registrar of Incorporated Societies within 20 **Working Days** of that
+change occurring, or the **Society** becoming aware of the change.
 
 ## **Members**
 
@@ -262,7 +268,9 @@ payment of the subscription, any other fees, or levy the **Committee** may termi
     may only be made following a dispute resolution process under this **Constitution**,
     which may be invoked by the **Committee** or by a **Member**.
 
-    15.2. with effect from (as applicable)—
+<!-- -->
+
+15.2. with effect from (as applicable)—
 
 - (i) the date of receipt of the **Member**'s notice of resignation by the **Committee**
   (or any subsequent date stated in the notice of resignation), or
@@ -328,49 +336,50 @@ notified to the **Society** and recorded in the **Society's** register of member
 
 - (iv) no other proxy voting shall be permitted.
 
-  18.4. No **General Meeting** may be held unless at least 10 eligible financial
-  **Members** attend throughout the meeting and this will constitute a quorum.
+<!-- -->
 
-  18.5. If, within half an hour after the time appointed for a meeting a quorum is not
-  present, the meeting – if convened upon request of **Members** – shall be dissolved.
-  In any other case it shall stand adjourned to a day, time and place determined by the
-  **Chairperson** of the **Society**, and if at such adjourned meeting a quorum is not
-  present those **Members** present in person or by proxy shall be deemed to constitute
-  a sufficient quorum.
+18.4. No **General Meeting** may be held unless at least 10 eligible financial
+**Members** attend throughout the meeting and this will constitute a quorum.
 
-  18.6. A **Member** is entitled to exercise one vote on any motion at a **General
-  Meeting** in person or by proxy, and voting at a **General Meeting** shall be by
-  voices or by show of hands or, on demand of the chairperson or of 2 or more
-  **Members** present, by secret ballot.
+18.5. If, within half an hour after the time appointed for a meeting a quorum is not
+present, the meeting – if convened upon request of **Members** – shall be dissolved. In
+any other case it shall stand adjourned to a day, time and place determined by the
+**Chairperson** of the **Society**, and if at such adjourned meeting a quorum is not
+present those **Members** present in person or by proxy shall be deemed to constitute a
+sufficient quorum.
 
-  18.7. Unless otherwise required by this **Constitution**, all questions shall be
-  decided by a simple majority of those in attendance in person or by proxy and voting
-  at a **General Meeting** or voting by remote ballot.
+18.6. A **Member** is entitled to exercise one vote on any motion at a **General
+Meeting** in person or by proxy, and voting at a **General Meeting** shall be by voices
+or by show of hands or, on demand of the chairperson or of 2 or more **Members**
+present, by secret ballot.
 
-  18.8. Any decisions made when a quorum is not present are not valid.
+18.7. Unless otherwise required by this **Constitution**, all questions shall be decided
+by a simple majority of those in attendance in person or by proxy and voting at a
+**General Meeting** or voting by remote ballot.
 
-  18.9. The **Society** may pass a written resolution in lieu of a **General Meeting**,
-  and a written resolution is as valid for the purposes of the **Act** and this
-  **Constitution** as if it had been passed at a **General Meeting** if it is approved
-  by no less than 75 percent of the **Members** who are entitled to vote on the
-  resolution. A written resolution may consist of 1 or more documents in similar form
-  (including letters, electronic mail, or other similar means of communication) each
-  proposed by or on behalf of 1 or more **Members**. A **Member** may give their
-  approval to a written resolution by signing the resolution or giving approval to the
-  resolution in any other manner permitted by the **Constitution** (for example, by
-  electronic means).
+18.8. Any decisions made when a quorum is not present are not valid.
 
-  18.10. **General Meetings** may be held at one or more venues by **Members** present
-  in person and/or using any real-time audio, audio and visual, or electronic
-  communication that gives each **Member** a reasonable opportunity to participate.
+18.9. The **Society** may pass a written resolution in lieu of a **General Meeting**,
+and a written resolution is as valid for the purposes of the **Act** and this
+**Constitution** as if it had been passed at a **General Meeting** if it is approved by
+no less than 75 percent of the **Members** who are entitled to vote on the resolution. A
+written resolution may consist of 1 or more documents in similar form (including
+letters, electronic mail, or other similar means of communication) each proposed by or
+on behalf of 1 or more **Members**. A **Member** may give their approval to a written
+resolution by signing the resolution or giving approval to the resolution in any other
+manner permitted by the **Constitution** (for example, by electronic means).
 
-  18.11. All **General Meetings** shall be chaired by the **Chairperson**. If the
-  **Chairperson** is absent, the Deputy Chairperson shall chair that meeting.
+18.10. **General Meetings** may be held at one or more venues by **Members** present in
+person and/or using any real-time audio, audio and visual, or electronic communication
+that gives each **Member** a reasonable opportunity to participate.
 
-  18.12. Any person chairing a **General Meeting** has a deliberative and, in the event
-  of a tied vote, a casting vote.
+18.11. All **General Meetings** shall be chaired by the **Chairperson**. If the
+**Chairperson** is absent, the Deputy Chairperson shall chair that meeting.
 
-  18.13. Any person chairing a **General Meeting** may —
+18.12. Any person chairing a **General Meeting** has a deliberative and, in the event of
+a tied vote, a casting vote.
+
+18.13. Any person chairing a **General Meeting** may —
 
 - (i) With the consent of a simple majority of **Members** present at any **General
   Meeting** adjourn the **General Meeting** from time to time and from place to place
@@ -385,17 +394,19 @@ notified to the **Society** and recorded in the **Society's** register of member
 - (iii) In the absence of a quorum or in the case of emergency, adjourn the **General
   Meeting** or declare it closed.
 
-  18.14. The **Committee** may propose motions for the **Society** to vote on
-  (**'Committee Motions'**), which shall be notified to **Members** with the notice of
-  the **General Meeting.**
+<!-- -->
 
-  18.15. Any **Member** may request that a motion be voted on (**'Member's Motion'**) at
-  a **General Meeting**, by giving notice to the **Secretary** or **Committee** at least
-  10 **Working Days** before that meeting. The **Member** may also provide information
-  in support of the motion (**'Member's Information'**). If notice of the motion is
-  given to the **Secretary** or **Committee** before written **Notice** of the **General
-  Meeting** is given to **Members**, notice of the motion shall be provided to
-  **Members** with the written **Notice** of the **General Meeting**.
+18.14. The **Committee** may propose motions for the **Society** to vote on
+(**'Committee Motions'**), which shall be notified to **Members** with the notice of the
+**General Meeting.**
+
+18.15. Any **Member** may request that a motion be voted on (**'Member's Motion'**) at a
+**General Meeting**, by giving notice to the **Secretary** or **Committee** at least 10
+**Working Days** before that meeting. The **Member** may also provide information in
+support of the motion (**'Member's Information'**). If notice of the motion is given to
+the **Secretary** or **Committee** before written **Notice** of the **General Meeting**
+is given to **Members**, notice of the motion shall be provided to **Members** with the
+written **Notice** of the **General Meeting**.
 
 ### **19. Minutes**
 
@@ -434,8 +445,10 @@ following—
 
 - (vi) consider any general business.
 
-  21.2. The **Committee** must, at each **Annual** **General** **Meeting**, present the
-  following information—
+<!-- -->
+
+21.2. The **Committee** must, at each **Annual** **General** **Meeting**, present the
+following information—
 
 - (i) an annual report on the operation and affairs of the **Society** during the most
   recently completed accounting period,
@@ -532,18 +545,20 @@ the **Committee**.
   **Committee** participating and constituting a quorum can simultaneously hear each
   other throughout the meeting.
 
-  28.3. A resolution of the **Committee** is passed at any meeting of the **Committee**
-  if a majority of the votes cast on it are in favour of the resolution. Every
-  **Officer** on the **Committee** shall have one vote.
+<!-- -->
 
-  28.4. The members of the **Committee** shall elect one of their number as chairperson
-  of the **Committee**. If at a meeting of the **Committee**, the chairperson is not
-  present, the members of the **Committee** present may choose one of their number to be
-  chairperson of the meeting. The chairperson does have a casting vote in the event of a
-  tied vote on any resolution of the **Committee**.
+28.3. A resolution of the **Committee** is passed at any meeting of the **Committee** if
+a majority of the votes cast on it are in favour of the resolution. Every **Officer** on
+the **Committee** shall have one vote.
 
-  28.5. Except as otherwise provided in this **Constitution**, the **Committee** may
-  regulate its own procedure.
+28.4. The members of the **Committee** shall elect one of their number as chairperson of
+the **Committee**. If at a meeting of the **Committee**, the chairperson is not present,
+the members of the **Committee** present may choose one of their number to be
+chairperson of the meeting. The chairperson does have a casting vote in the event of a
+tied vote on any resolution of the **Committee**.
+
+28.5. Except as otherwise provided in this **Constitution**, the **Committee** may
+regulate its own procedure.
 
 ### **29. Frequency**
 
@@ -568,9 +583,11 @@ suffice.
 - (ii) certifies that they are not disqualified from being elected or appointed or
   otherwise holding office as an **Officer** of the **Society**.
 
-  30.2. **Officers** must not be disqualified under section 47(3) of the **Act** or
-  section 36B of the Charities Act 2005 from being appointed or holding office as an
-  **Officer** of the **Society**, namely —
+<!-- -->
+
+30.2. **Officers** must not be disqualified under section 47(3) of the **Act** or
+section 36B of the Charities Act 2005 from being appointed or holding office as an
+**Officer** of the **Society**, namely —
 
 - (i) a person who is under 16 years of age
 
@@ -611,15 +628,19 @@ suffice.
   Zealand that is a country, State, or territory prescribed by the regulations (if any)
   of the **Act**.
 
-  30.3. Prior to election or appointment as an **Officer** a person must —
+<!-- -->
+
+30.3. Prior to election or appointment as an **Officer** a person must —
 
 - (i) consent in writing to be an **Officer**, and
 
 - (ii) certify in writing that they are not disqualified from being elected or appointed
   as an **Officer** either by this **Constitution** or the **Act**.
 
-  30.4. Note that only a natural person may be an **Officer** and each certificate shall
-  be retained in the **Society's** records.
+<!-- -->
+
+30.4. Note that only a natural person may be an **Officer** and each certificate shall
+be retained in the **Society's** records.
 
 ### **31. Officers' duties**
 
@@ -715,8 +736,10 @@ with the last year of each **Officer's** term of office.
 
 - (iv) The **Committee** passes a vote of no confidence in the **Officer**.
 
-  34.2. with effect from (as applicable) the date specified in a resolution of the
-  **Committee** or **Society**.
+<!-- -->
+
+34.2. with effect from (as applicable) the date specified in a resolution of the
+**Committee** or **Society**.
 
 ### **35. Ceasing to hold office**
 
@@ -739,11 +762,13 @@ it can be quantified)—
 
 - (ii) in an **Interests Register** kept by the **Committee**.
 
-  36.2. Disclosure must be made as soon as practicable after the **Officer** or member
-  of a sub-committee becomes aware that they are interested in the **Matter**.
+<!-- -->
 
-  36.3. An **Officer** or member of a sub-committee who is an **Interested Member**
-  regarding a **Matter**—
+36.2. Disclosure must be made as soon as practicable after the **Officer** or member of
+a sub-committee becomes aware that they are interested in the **Matter**.
+
+36.3. An **Officer** or member of a sub-committee who is an **Interested Member**
+regarding a **Matter**—
 
 - (i) must not vote or take part in the decision of the **Committee** and/or
   sub-committee relating to the **Matter** unless all members of the **Committee** who
@@ -758,18 +783,20 @@ it can be quantified)—
   **Committee** and/or sub-committee (unless the **Committee** and/or sub-committee
   decides otherwise).
 
-  36.4. However, an **Officer** or member of a sub-committee who is prevented from
-  voting on a **Matter** may still be counted for the purpose of determining whether
-  there is a quorum at any meeting at which the **Matter** is considered.
+<!-- -->
 
-  36.5. Where 50 per cent or more of **Officers** are prevented from voting on a
-  **Matter** because they are interested in that **Matter**, a **Special General
-  Meeting** must be called to consider and determine the **Matter**, unless all
-  non-interested **Officers** agree otherwise.
+36.4. However, an **Officer** or member of a sub-committee who is prevented from voting
+on a **Matter** may still be counted for the purpose of determining whether there is a
+quorum at any meeting at which the **Matter** is considered.
 
-  36.6. Where 50 per cent or more of the members of a sub-committee are prevented from
-  voting on a **Matter** because they are interested in that **Matter**, the
-  **Committee** shall consider and determine the **Matter**.
+36.5. Where 50 per cent or more of **Officers** are prevented from voting on a
+**Matter** because they are interested in that **Matter**, a **Special General Meeting**
+must be called to consider and determine the **Matter**, unless all non-interested
+**Officers** agree otherwise.
+
+36.6. Where 50 per cent or more of the members of a sub-committee are prevented from
+voting on a **Matter** because they are interested in that **Matter**, the **Committee**
+shall consider and determine the **Matter**.
 
 ## **Records**
 
@@ -790,24 +817,30 @@ shall include —
   - (a) A physical address or an electronic address, and
   - (b) A telephone number.
 
-    37.3. The register will also include each **Member's** —
+<!-- -->
+
+37.3. The register will also include each **Member's** —
 
 - (i) email address (if any)
 
-  37.4. Every current **Member** shall promptly advise the **Society** of any change of
-  the **Member's** contact details.
+<!-- -->
 
-  37.5. The **Society** shall also keep a record of the former **Members** of the
-  **Society**. For each **Member** who ceased to be a **Member** within the previous 7
-  years, the **Society** will record:
+37.4. Every current **Member** shall promptly advise the **Society** of any change of
+the **Member's** contact details.
+
+37.5. The **Society** shall also keep a record of the former **Members** of the
+**Society**. For each **Member** who ceased to be a **Member** within the previous 7
+years, the **Society** will record:
 
 - (i) The former **Member's** name, and
 
 - (ii) The date the former **Member** ceased to be a **Member**.
 
-  37.6. A former **Member** may request the deletion of their record kept as per 37.5.
-  immediately after ceasing to be a **Member**. The society shall then delete their
-  record within 12 months.
+<!-- -->
+
+37.6. A former **Member** may request the deletion of their record kept as per 37.5.
+immediately after ceasing to be a **Member**. The society shall then delete their record
+within 12 months.
 
 ### **38. Interests Register**
 
@@ -834,8 +867,10 @@ information to be identified.
 
 - (iv) refuse to provide the information, specifying the reasons for the refusal.
 
-  39.4. Without limiting the reasons for which the **Society** may refuse to provide the
-  information, the **Society** may refuse to provide the information if —
+<!-- -->
+
+39.4. Without limiting the reasons for which the **Society** may refuse to provide the
+information, the **Society** may refuse to provide the information if —
 
 - (i) withholding the information is necessary to protect the privacy of natural
   persons, including that of deceased natural persons, or
@@ -865,17 +900,21 @@ information to be identified.
   the subject of the procedures for resolving such matters under this **Constitution**
   and the **Act**.
 
-  39.5. If the **Society** requires the **Member** to pay a charge for the information,
-  the **Member** may withdraw the request, and must be treated as having done so unless,
-  within 10 **Working Days** after receiving notification of the charge, the **Member**
-  informs the **Society** —
+<!-- -->
+
+39.5. If the **Society** requires the **Member** to pay a charge for the information,
+the **Member** may withdraw the request, and must be treated as having done so unless,
+within 10 **Working Days** after receiving notification of the charge, the **Member**
+informs the **Society** —
 
 - (i) that the **Member** will pay the charge; or
 
 - (ii) that the **Member** considers the charge to be unreasonable.
 
-  39.6. Nothing in this rule limits Information Privacy Principle 6 of the Privacy Act
-  2020 relating to access to personal information.
+<!-- -->
+
+39.6. Nothing in this rule limits Information Privacy Principle 6 of the Privacy Act
+2020 relating to access to personal information.
 
 ## **Finances**
 
@@ -888,16 +927,18 @@ information to be identified.
 
 - (ii) devoted solely to the promotion of the purposes of the **Society**.
 
-  40.2. The **Committee** shall maintain bank accounts in the name of the **Society**.
+<!-- -->
 
-  40.3. All money received on account of the **Society** shall be banked within 10
-  **Working Days** of receipt.
+40.2. The **Committee** shall maintain bank accounts in the name of the **Society**.
 
-  40.4. All accounts paid or for payment shall be submitted to the **Committee** for
-  approval of payment.
+40.3. All money received on account of the **Society** shall be banked within 10
+**Working Days** of receipt.
 
-  40.5. The **Committee** must ensure that there are kept at all times accounting
-  records that—
+40.4. All accounts paid or for payment shall be submitted to the **Committee** for
+approval of payment.
+
+40.5. The **Committee** must ensure that there are kept at all times accounting records
+that—
 
 - (i) correctly record the transactions of the **Society**, and
 
@@ -907,13 +948,15 @@ information to be identified.
 - (iii) would enable the financial statements to be readily and properly audited (if
   required under any legislation or the **Society's** **Constitution**).
 
-  40.6. The **Committee** must establish and maintain a satisfactory system of control
-  of the **Society's** accounting records.
+<!-- -->
 
-  40.7. The accounting records must be kept in written form or in a form or manner that
-  is easily accessible and convertible into written form. And the accounting records
-  must be kept for the current accounting period and for the last 7 completed accounting
-  periods of the **Society**.
+40.6. The **Committee** must establish and maintain a satisfactory system of control of
+the **Society's** accounting records.
+
+40.7. The accounting records must be kept in written form or in a form or manner that is
+easily accessible and convertible into written form. And the accounting records must be
+kept for the current accounting period and for the last 7 completed accounting periods
+of the **Society**.
 
 ### **41. Balance date**
 
@@ -941,7 +984,9 @@ information to be identified.
 
 - (vi) 1 or more **Members** or **Officers** and the **Society**.
 
-  42.3. The disagreement or conflict relates to any of the following allegations—
+<!-- -->
+
+42.3. The disagreement or conflict relates to any of the following allegations—
 
 - (i) a **Member** or an **Officer** has engaged in misconduct
 
@@ -954,8 +999,10 @@ information to be identified.
 - (iv) a **Member's** rights or interests as a **Member** have been damaged or
   **Members'** rights or interests generally have been damaged.
 
-  42.4. A **Member** or an **Officer** may make a complaint by giving to the
-  **Committee** (or a complaints subcommittee) a notice in writing that—
+<!-- -->
+
+42.4. A **Member** or an **Officer** may make a complaint by giving to the **Committee**
+(or a complaints subcommittee) a notice in writing that—
 
 - (i) states that the **Member** or **Officer** is starting a procedure for resolving a
   dispute in accordance with the **Society's** **Constitution**; and
@@ -966,31 +1013,34 @@ information to be identified.
 - (iii) sets out any other information or allegations reasonably required by the
   **Society**.
 
-  42.5. The **Society** may make a complaint involving an allegation against a
-  **Member** or an **Officer** by giving to the **Member** or **Officer** a notice in
-  writing that—
+<!-- -->
+
+42.5. The **Society** may make a complaint involving an allegation against a **Member**
+or an **Officer** by giving to the **Member** or **Officer** a notice in writing that—
 
 - (i) states that the **Society** is starting a procedure for resolving a dispute in
   accordance with the **Society's** **Constitution**; and
 
 - (ii) sets out the allegation to which the dispute relates.
 
-  42.6. The information setting out the allegations must be sufficiently detailed to
-  ensure that a person against whom an allegation or allegations is made is fairly
-  advised of the allegation or allegations concerning them, with sufficient details
-  given to enable that person to prepare a response.
+<!-- -->
 
-  42.7. A complaint may be made in any other reasonable manner permitted by the
-  **Society's** **Constitution**.
+42.6. The information setting out the allegations must be sufficiently detailed to
+ensure that a person against whom an allegation or allegations is made is fairly advised
+of the allegation or allegations concerning them, with sufficient details given to
+enable that person to prepare a response.
 
-  42.8. All **Members** (including the **Committee**) are obliged to cooperate to
-  resolve disputes efficiently, fairly, and with minimum disruption to the **Society's**
-  activities.
+42.7. A complaint may be made in any other reasonable manner permitted by the
+**Society's** **Constitution**.
 
-  42.9. The complainant raising a dispute, and the **Committee**, must consider and
-  discuss whether a dispute may best be resolved through informal discussions,
-  mediation, arbitration, or a tikanga-based practice. Where mediation or arbitration is
-  agreed on, the parties will sign a suitable mediation or arbitration agreement.
+42.8. All **Members** (including the **Committee**) are obliged to cooperate to resolve
+disputes efficiently, fairly, and with minimum disruption to the **Society's**
+activities.
+
+42.9. The complainant raising a dispute, and the **Committee**, must consider and
+discuss whether a dispute may best be resolved through informal discussions, mediation,
+arbitration, or a tikanga-based practice. Where mediation or arbitration is agreed on,
+the parties will sign a suitable mediation or arbitration agreement.
 
 ### **43. How complaint is made**
 
@@ -1005,22 +1055,26 @@ information to be identified.
 
 - (iii) sets out any other information reasonably required by the **Society**.
 
-  43.2. The **Society** may make a complaint involving an allegation or allegations
-  against a **Member** or an **Officer** by giving to the **Member** or **Officer** a
-  notice in writing that—
+<!-- -->
+
+43.2. The **Society** may make a complaint involving an allegation or allegations
+against a **Member** or an **Officer** by giving to the **Member** or **Officer** a
+notice in writing that—
 
 - (i) states that the **Society** is starting a procedure for resolving a dispute in
   accordance with the **Society**'s **Constitution**; and
 
 - (ii) sets out the allegation to which the dispute relates.
 
-  43.3. The information given under subclause (1b.) or (2b.) must be sufficient to
-  ensure that a person against whom an allegation is made is fairly advised of the
-  allegation or allegations concerning them, with sufficient details given to enable
-  that person to prepare a response.
+<!-- -->
 
-  43.4. A complaint may be made in any other reasonable manner permitted by the
-  **Society**'s **Constitution**.
+43.3. The information given under subclause (1b.) or (2b.) must be sufficient to ensure
+that a person against whom an allegation is made is fairly advised of the allegation or
+allegations concerning them, with sufficient details given to enable that person to
+prepare a response.
+
+43.4. A complaint may be made in any other reasonable manner permitted by the
+**Society**'s **Constitution**.
 
 ### **44. Person who makes complaint has right to be heard**
 
@@ -1034,9 +1088,10 @@ before the complaint is resolved or any outcome is determined.
 
 - (ii) an **Officer** may exercise that right on behalf of the **Society**.
 
-  44.3. Without limiting the manner in which the **Member**, **Officer**, or **Society**
-  may be given the right to be heard, they must be taken to have been given the right
-  if—
+<!-- -->
+
+44.3. Without limiting the manner in which the **Member**, **Officer**, or **Society**
+may be given the right to be heard, they must be taken to have been given the right if—
 
 - (i) they have a reasonable opportunity to be heard in writing or at an oral hearing
   (if one is held); and
@@ -1062,14 +1117,16 @@ before the complaint is resolved or any outcome is determined.
 - (iii) has damaged the rights or interests of a **Member** or the rights or interests
   of **Members** generally.
 
-  45.2. The respondent has a right to be heard before the complaint is resolved or any
-  outcome is determined.
+<!-- -->
 
-  45.3. If the respondent is the **Society**, an **Officer** may exercise the right on
-  behalf of the **Society**.
+45.2. The respondent has a right to be heard before the complaint is resolved or any
+outcome is determined.
 
-  45.4. Without limiting the manner in which a respondent may be given a right to be
-  heard, a respondent must be taken to have been given the right if—
+45.3. If the respondent is the **Society**, an **Officer** may exercise the right on
+behalf of the **Society**.
+
+45.4. Without limiting the manner in which a respondent may be given a right to be
+heard, a respondent must be taken to have been given the right if—
 
 - (i) the respondent is fairly advised of all allegations concerning the respondent,
   with sufficient details and time given to enable the respondent to prepare a response;
@@ -1132,9 +1189,11 @@ may decide not to proceed further with a complaint if—
 - (ii) a subcommittee, an arbitral tribunal, or an external person to investigate and
   make a decision.
 
-  48.2. The **Society** may, with the consent of all parties to a complaint, refer the
-  complaint to any type of consensual dispute resolution (for example, mediation,
-  facilitation, or a tikanga-based practice).
+<!-- -->
+
+48.2. The **Society** may, with the consent of all parties to a complaint, refer the
+complaint to any type of consensual dispute resolution (for example, mediation,
+facilitation, or a tikanga-based practice).
 
 ### **49. Decision makers**
 
@@ -1225,7 +1284,7 @@ Act.
 
 ### **54. Bylaws**
 
-55.1. The **Committee** from time to time may make and amend bylaws, and policies for
+54.1. The **Committee** from time to time may make and amend bylaws, and policies for
 the conduct and control of **Society** activities and codes of conduct applicable to
 **Members**, but no such bylaws, policies or codes of conduct applicable to **Members**
 shall be inconsistent with this **Constitution**, the **Act**, regulations made under
