@@ -12,10 +12,9 @@ authoritative source code of the documents and tracks changes to them.
 ### Constitution
 
 This is Markdown source code to produce HTML (for https://python.nz) and PDF (for
-printing)<br> _Note: On github.com, bullet points will show in addition to numbering
-(styling is ignored). Also, clauses following a bullet list wrongly remain at the same
-indentation level as the bullet list - this seems to be a rendering bug in github. The
-HTML/PDF results look fine._
+printing).<br> _Note: On github.com, bullet points will show in addition to numbering
+(styling is ignored). Also, empty HTML comments have been inserted to prevent wrong
+indentation following unordered lists. The HTML/PDF results look fine._
 
 #### Create HTML
 
@@ -31,7 +30,7 @@ inserting another headline)
 #### Table of Contents
 
 Optionally, `--toc` will also create a table of contents with headline links (handy but
-not fit for PDF)
+not fit for PDF):
 
 ```
 pandoc -s constitution.md -o constitution.html -c constitution.css -V "pagetitle:Constitution" --toc
