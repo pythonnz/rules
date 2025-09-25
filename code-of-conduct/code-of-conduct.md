@@ -1,3 +1,7 @@
+# **Code of Conduct**
+
+**Python New Zealand<br> Last update: 15 May 2024<br> Status: Active**
+
 Python New Zealand aims to foster an inclusive community which invites diverse groups of
 people from all backgrounds, regardless of age, body size, race, gender, gender identity
 and expression, sexuality, disability, or religion to discuss and learn about all things
