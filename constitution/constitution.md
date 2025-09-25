@@ -1,5 +1,7 @@
 # **Constitution**
 
+**Python New Zealand<br> Last update: 25 Sep 2025<br> Status: Draft**
+
 ## **Introductory rules**
 
 ### **1. Name**

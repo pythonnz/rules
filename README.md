@@ -4,8 +4,8 @@ Official rules of [Python New Zealand](https://python.nz).<br> This repository h
 authoritative source code of the documents and tracks changes to them.
 
 - [Constitution](constitution/constitution.md)
-- Bylaws
-- Code of Conduct
+- [Bylaws](bylaws/README.md)
+- [Code of Conduct](code-of-conduct/code-of-conduct.md)
 
 ## How to create documents
 
