@@ -7,6 +7,6 @@
 - When a new member joins the Society, the initial annual membership fee is charged
   proportionally for the remainder of the year (e.g. halfway through the year you only
   pay half the fee).
-- If a new member joins the Society in the month of December, the annual membership fee to
-  be paid is for the following year, and the remaining proportional fee for the month of
-  December is waived.
+- If a new member joins the Society in the month of December, the annual membership fee
+  to be paid is for the following year, and the remaining proportional fee for the month
+  of December is waived.
