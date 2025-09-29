@@ -59,4 +59,4 @@ an incident occurs to prevent it from happening again.
 
 Python New Zealand's Code of Conduct is licensed under the Creative Commons
 Attribution-Share Alike License 4.0 (CC-BY-SA) -
-https://creativecommons.org/licenses/by-sa/4.0/legalcode
+[https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
