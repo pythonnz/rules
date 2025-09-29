@@ -14,8 +14,8 @@ document describes practical implementation details for day-to-day operations.
   any mandate changes and revocation of previously assigned access.
 
 - For the purpose of online credit/debit card payments – which require a bank account
-  with a single signatory – a separate bank account can be operated by the treasurer
-  alone. This account shall only be used for the purpose of making specific payments via
+  with a single signatory – a separate bank account is operated by the treasurer alone.
+  This account shall only be used for the purpose of making specific payments via
   credit/debit card, and only receives the required funds from the jointly operated bank
   accounts when necessary.
 

@@ -1,10 +1,13 @@
 # Term Limits (Bylaw)
 
-**Python New Zealand<br> Last update: 21 Sep 2025<br> Status: Draft**
+**Python New Zealand<br> Last update: 29 Sep 2025<br> Status: Draft**
 
-- At this time, there are no term limits.
-- As actual positions within the committee are determined by the elected committe, we
-  are considering the introduction of term limits for key positions: chairperson, deputy
-  chairperson, treasurer, secretary.
-- The goal of such term limits / rotations would be to distribute institutional
-  knowledge and soften the dependence on any particular individual.
+There are currently no term limits for committee members.
+
+The committee is considering the introduction of term limits for key officer positions -
+chairperson, deputy chairperson, treasurer, and secretary.
+
+The purpose of such limits or rotations would be to:
+
+- broaden the distribution of institutional knowledge, and
+- reduce dependence on any single individual.

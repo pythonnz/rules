@@ -1,13 +1,16 @@
 # Event Organisers (Bylaw)
 
-**Python New Zealand<br> Last update: 21 Sep 2025<br> Status: Draft**
+**Python New Zealand<br> Last update: 29 Sep 2025<br> Status: Draft**
 
-The relationship between Python New Zealand and individual event organiser is described
+The relationship between Python New Zealand and individual event organisers is described
 by three documents:
 
-- Goals / Relationship (motivations and spirit)
-- Commitment (form to sign)
-- Events HOWTO (living document guide)
+- [Python New Zealand and Event Organisers](event_organisers.md) - outlines aspirations,
+  expectations, responsibilities and commitments
+- [Event Organiser Commitment](commmitment.md) - a form signed by event organisers to
+  confirm their commitment
+- [HOWTO Python New Zealand Events](howto_events.md) - describes "how we currently do
+  things" - the framework organisers are expected to follow
 
-These are currently in a separate repository as their initial version is being finalised
-between committee and current organisers.
+**Note: These are currently in a separate repository while the initial versions are
+being finalised between committee and current organisers.**

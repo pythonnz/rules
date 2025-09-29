@@ -1,18 +1,13 @@
 # Transparency (Bylaw)
 
-**Python New Zealand<br> Last update: 21 Sep 2025<br> Status: Draft**
+**Python New Zealand<br> Last update: 29 Sep 2025<br> Status: Draft**
 
-This documents described how various information is made available by the Python New
-Zealand committee.
+This bylaw documents how the Python New Zealand committee makes information available to
+members and other stakeholders.
 
-- What information is made available
-- when
-- to whom
-- by which means
-
-(table)
-
-- Committee Minutes
-- AGM Minutes
-- Annual Return
-- Bylaw changes
+| Information       | To                 | When                                                       | How               |
+| ----------------- | ------------------ | ---------------------------------------------------------- | ----------------- |
+| Committee Minutes | All members        | Within 5 working days following the next committee meeting | Email             |
+| Bylaw changes     | All members        | Within 5 working days of passing by the committee          | Email             |
+| AGM Minutes       | All members        | Within 20 working days of AGM                              | Email             |
+| Annual Return     | Registrar / Public | Within 20 working days of AGM                              | charities.govt.nz |
