@@ -8,7 +8,7 @@ printing).
 Use [pandoc](https://pandoc.org):
 
 ```
-pandoc code-of-conduct.md -o code-of-conduct.html -V "pagetitle:Code of Conduct"
+pandoc -s code-of-conduct.md -o code-of-conduct.html -V "pagetitle:Code of Conduct"
 ```
 
 (`-s` standalone, `pagetitle` to suppress title warning without inserting another
