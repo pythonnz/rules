@@ -3,7 +3,7 @@
 Official rules of [Python New Zealand](https://python.nz).<br> This repository holds the
 authoritative source code of the documents and tracks changes to them.
 
-- [Constitution](constitution/constitution.md)
+- [Constitution](constitution/README.md)
 - [Bylaws](bylaws/README.md)
 - [Code of Conduct](code-of-conduct/code-of-conduct.md)
 
