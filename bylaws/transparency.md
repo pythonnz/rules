@@ -9,5 +9,5 @@ members and other stakeholders.
 | ----------------- | ------------------ | ---------------------------------------------------------- | ----------------- |
 | Committee Minutes | All members        | Within 5 working days following the next committee meeting | Email             |
 | Bylaw changes     | All members        | Within 5 working days of being passed by the committee     | Email             |
-| AGM Minutes       | All members        | Within 20 working days of AGM                              | Email             |
-| Annual Return     | Registrar / Public | Within 20 working days of AGM                              | charities.govt.nz |
+| AGM Minutes       | All members        | Within 20 working days of the AGM                          | Email             |
+| Annual Return     | Registrar / Public | Within 20 working days of the AGM                          | charities.govt.nz |
