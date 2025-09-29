@@ -7,6 +7,9 @@ authoritative source code of the documents and tracks changes to them.
 - [Bylaws](bylaws/README.md)
 - [Code of Conduct](code-of-conduct/code-of-conduct.md)
 
+If you have any questions or concerns about our rules please contact
+[committee@python.nz](mailto:committee@python.nz).
+
 ## How to create documents
 
 ### Constitution
