@@ -99,7 +99,7 @@ words and phrases have the following meanings:
 <!-- -->
 
 4.2. Any income, benefit, or advantage must be used to advance the charitable purposes
-of the **Society**
+of the **Society**.
 
 ### **5. Act and Regulations**
 
