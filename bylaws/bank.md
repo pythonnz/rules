@@ -1,12 +1,12 @@
 # Bank (Bylaw)
 
-**Python New Zealand<br> Last update: 21 Sep 2025<br> Status: Draft**
+**Python New Zealand<br> Last update: 22 Oct 2025<br> Status: Draft**
 
 Further to the "Finances" section "40. Control and management" of our Constitution, this
 document describes practical implementation details for day-to-day operations.
 
 - The treasurer and secretary shall have joint required signing rights, and operate the
-  bank accounts and make payments as needed.
+  Society's bank accounts and make payments as required.
 
 - These signing rights shall be assigned by the newly elected committee at the time of
   the Annual General Meeting, and documented with a corresponding signed mandate that is
