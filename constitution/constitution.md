@@ -1,6 +1,7 @@
 # **Constitution**
 
 **Python New Zealand<br> Last update: 25 Sep 2025<br> Status: Active <br> References:
+[Source Code](https://github.com/pythonnz/rules/),
 [Incorporated Societies Act 2022](https://www.legislation.govt.nz/act/public/2022/0012/latest/LMS100809.html),
 [Charities Act 2005](https://www.legislation.govt.nz/act/public/2005/0039/latest/DLM344368.html)**
 
