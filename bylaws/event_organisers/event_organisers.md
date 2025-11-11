@@ -47,8 +47,8 @@
   - Python New Zealand social media accounts where required: Bluesky, Facebook,
     LinkedIn, Mastodon
   - the Python New Zealand (“NZPUG”) mailing list
-- assisting event organisers with a **communication channel** on our Slack chat
-  platform, available for coordinating event organisation and communication with
+- assisting event organisers with a **communication channel** on our Discord chat
+  server, available for coordinating event organisation and communication with
   members/participants (e.g., #meetup-yourcity)
 - assisting event organisers with **branded material** used in running events (e.g.,
   laminated posters for various purposes at the venue)

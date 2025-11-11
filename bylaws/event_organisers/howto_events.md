@@ -37,12 +37,10 @@ outlined in
 ### Chat
 
 - The Python New Zealand
-  [Slack instance](<(https://python.nz/get-involved/chat-with-the-community/)>) has a
-  channel for each meetup location. These are not meant for general discussions (which
-  should happen in `#general`), but rather to coordinate meetups, e.g. last minute
-  announcements, pickups from venue door, discussion of a specific talk. They follow a
-  simple naming convention `#meetup-auckland`, `#meetup-wellington`,
-  `#meetup-christchurch`
+  [Discord server](<(https://python.nz/get-involved/chat-with-the-community/)>) has a
+  channel for meetups. It is not meant for general discussions (which should happen in
+  `#general`), but rather to coordinate meetups, e.g. last minute announcements, pickups
+  from venue door, discussion of a specific talk.
 
 ### Video conferencing
 
@@ -66,7 +64,7 @@ outlined in
 - We start all news items by creating a blog post on https://python.nz/news/ which then
   gets disseminated through appropriate channels such as
   [mailing list](https://groups.google.com/forum/#!forum/nzpug),
-  [Slack](https://python.nz/get-involved/chat-with-the-community/),
+  [Discord](https://python.nz/get-involved/chat-with-the-community/),
   [BlueSky](https://bsky.app/profile/python.nz),
   [Mastodon](https://mastodon.social/@pythonnz),
   [Facebook](https://facebook.com/pythonnz),
