@@ -16,15 +16,25 @@ understand that I am representing the charity. I commit to the following:
    if I breach this commitment. Final decisions rest with the Python New Zealand
    committee.
 
-**Type of event(s):** **\*\***\*\***\*\***\_**\*\***\*\***\*\***
+**Type of event(s):**
 
-**Name:** **\*\***\*\***\*\***\_**\*\***\*\***\*\***
+<hr>
 
-**Role:** **\*\***\*\***\*\***\_**\*\***\*\***\*\***
+**Name:**
 
-**Date:** **\*\***\*\***\*\***\_**\*\***\*\***\*\***
+<hr>
 
-**Signature:** **\*\***\*\***\*\***\_**\*\***\*\***\*\***
+**Role:**
+
+<hr>
+
+**Date:**
+
+<hr>
+
+**Signature:**
+
+<hr>
 
 _Note: See Appendix A (excerpt from the Cconstitution) and Appendix B (Code of Conduct).
 The two documents referenced in point 5 are available at_
