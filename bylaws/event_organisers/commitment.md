@@ -38,7 +38,7 @@ understand that I am representing the charity. I commit to the following:
 
 <hr>
 
-_Note: See Appendix A (excerpt from the Cconstitution) and Appendix B (Code of Conduct).
+_Note: See Appendix A (excerpt from the Constitution) and Appendix B (Code of Conduct).
 The two documents referenced in point 5 are available at_
 [_github.com/pythonnz/rules_](https://github.com/pythonnz/rules).
 
