@@ -1,6 +1,6 @@
 # HOWTO Python New Zealand Events
 
-**Python New Zealand<br> Last update: 11 Nov 2025<br> Status: Active**
+**Python New Zealand<br> Last update: 15 Dec 2025<br> Status: Active**
 
 This document describes "how we currently do things".<br> Rather than a prescriptive
 rulebook it is meant to be a useful reference, esp. for new organisers.
@@ -21,10 +21,19 @@ outlined in
 - We aim to meet monthly via videoconference, for a general catchup and exchange of
   experiences, and to discuss matters concerning all organisers.
 
-### Organising - meetup.com
+### Organising - meetup.com / pretix.eu
 
 - We use [meetup.com](https://meetup.com/) and event organisers need to join their group
   and then get account permissions that allow them to create and edit events.
+
+- Online meetups are organised entirely on meetup.com. In-person meetups are organised
+  on [pretix.eu](https://pretix.eu/) published to
+  [https://events.python.nz/](https://events.python.nz/) for registration. In-person
+  meetups still use meetup.com for announcing meetups to group members/subscribers.
+  Event organisers of in-person meetups get an account on pretix.eu for managing events.
+
+- Both online (meetup.com) and in-person (events.python.nz) meetups are shown on the
+  [Python New Zealand Events Calendar](https://python.nz/events)
 
 - We currently have 4 groups: [Auckland](https://www.meetup.com/pythonnz-auckland/),
   [Wellington](https://www.meetup.com/pythonnz-wellington/),

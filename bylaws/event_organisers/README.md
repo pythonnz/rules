@@ -1,6 +1,6 @@
 # Event Organisers (Bylaw)
 
-**Python New Zealand<br> Last update: 11 Nov 2025<br> Status: Active**
+**Python New Zealand<br> Last update: 15 Dec 2025<br> Status: Active**
 
 The relationship between Python New Zealand and individual event organisers is described
 by three documents:
@@ -16,4 +16,4 @@ by three documents:
 | -------------------------------------------------------------- | ----------- | ------ |
 | [Python New Zealand and Event Organisers](event_organisers.md) | 11 Nov 2025 | Active |
 | [Event Organiser Commitment](commitment.md)                    | 11 Nov 2025 | Active |
-| [HOWTO Python New Zealand Events](howto_events.md)             | 11 Nov 2025 | Active |
+| [HOWTO Python New Zealand Events](howto_events.md)             | 15 Dec 2025 | Active |
