@@ -1,6 +1,6 @@
 # Python New Zealand and Event Organisers
 
-**Python New Zealand<br> Last update: 11 Nov 2025<br> Status: Active**
+**Python New Zealand<br> Last update: 15 Dec 2025<br> Status: Active**
 
 ## Aspirations / Expectations / Responsibilities / Commitments
 
@@ -44,14 +44,15 @@
   on by an event organiser (or anyone else)
 - assisting event organisers in their **marketing efforts** with exposure on
   - other meetup groups owned by Python New Zealand
-  - the Python New Zealand website [https://python.nz/news](https://python.nz/news)
-  - the Python New Zealand nationwide event calendar (in preparation)
+  - the Python New Zealand news blog [https://python.nz/news](https://python.nz/news)
+  - the Python New Zealand event calendar
+    [https://python.nz/events](https://python.nz/events)
   - Python New Zealand social media accounts where required: Bluesky, Facebook,
     LinkedIn, Mastodon
   - the Python New Zealand (“NZPUG”) mailing list
 - assisting event organisers with a **communication channel** on our Discord chat
   server, available for coordinating event organisation and communication with
-  members/participants (e.g., #meetup-yourcity)
+  members/participants
 - assisting event organisers with **branded material** used in running events (e.g.,
   laminated posters for various purposes at the venue)
 - assisting event organisers in the search for **venues and catering**, e.g.,
@@ -65,4 +66,5 @@
   organisers
 - being open to considering **any other type of support** that organisers may request
 - **recognising event organisers** and their efforts officially: on the Python New
-  Zealand website, in newsletters and blog posts, at the Annual General Meeting.
+  Zealand website, in newsletters and blog/social media posts, at the Annual General
+  Meeting.
