@@ -1,5 +1,7 @@
 # HOWTO Python New Zealand Events
 
+**Python New Zealand<br> Last update: 11 Nov 2025<br> Status: Active**
+
 This document describes "how we currently do things".<br> Rather than a prescriptive
 rulebook it is meant to be a useful reference, esp. for new organisers.
 

@@ -1,5 +1,7 @@
 # Python New Zealand and Event Organisers
 
+**Python New Zealand<br> Last update: 11 Nov 2025<br> Status: Active**
+
 ## Aspirations / Expectations / Responsibilities / Commitments
 
 ## As an Event Organiser

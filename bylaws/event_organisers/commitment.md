@@ -1,5 +1,7 @@
 # Python New Zealand - Event Organiser Commitment
 
+**Python New Zealand<br> Last update: 11 Nov 2025<br> Status: Active**
+
 As an organiser of one or more events under the banner of Python New Zealand, I
 understand that I am representing the charity. I commit to the following:
 
