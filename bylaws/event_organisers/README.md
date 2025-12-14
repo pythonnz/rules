@@ -11,3 +11,9 @@ by three documents:
   confirm their commitment
 - [HOWTO Python New Zealand Events](howto_events.md) - describes "how we currently do
   things"
+
+| Document                                                       | Last Update | Status |
+| -------------------------------------------------------------- | ----------- | ------ |
+| [Python New Zealand and Event Organisers](event_organisers.md) | 11 Nov 2025 | Active |
+| [Event Organiser Commitment](commitment.md)                    | 11 Nov 2025 | Active |
+| [HOWTO Python New Zealand Events](howto_events.md)             | 11 Nov 2025 | Active |
