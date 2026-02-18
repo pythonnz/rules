@@ -18,9 +18,3 @@ document describes practical implementation details for day-to-day operations.
   This account shall only be used for the purpose of making specific payments via
   credit/debit card, and only receives the required funds from the jointly operated bank
   accounts when necessary.
-
-- No member of the Society or any person associated with a member shall participate in
-  or materially influence any decision made by the Society in respect of the payment to
-  or on behalf of that member or associated person of any income, benefit, or advantage
-  whatsoever. Any such income paid shall be reasonable and relative to that which would
-  be paid in an arm's length transaction (being the open market value).
