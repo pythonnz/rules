@@ -1,6 +1,6 @@
 # Membership (Bylaw)
 
-**Python New Zealand<br> Last update: 29 Sep 2025<br> Status: Draft**
+**Python New Zealand<br> Last update: 30 May 2026<br> Status: Active**
 
 - Membership is for one year. The membership year is the financial year 01 January-31
   December.
