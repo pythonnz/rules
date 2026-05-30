@@ -1,6 +1,6 @@
 # Transparency (Bylaw)
 
-**Python New Zealand<br> Last update: 29 Sep 2025<br> Status: Draft**
+**Python New Zealand<br> Last update: 30 May 2026<br> Status: Active**
 
 This bylaw documents how the Python New Zealand committee makes information available to
 members and other stakeholders.
